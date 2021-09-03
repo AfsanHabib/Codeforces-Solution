@@ -1,3 +1,5 @@
+#Solved
+
 word = input()
 
 upper=0
