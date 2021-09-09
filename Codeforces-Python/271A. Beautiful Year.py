@@ -1,6 +1,4 @@
-
-
-
+#Solved
 
 year = int(input())+1
 
