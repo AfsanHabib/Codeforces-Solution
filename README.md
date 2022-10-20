@@ -1,5 +1,5 @@
 
-My Codeforces Profile  [AfsanHabib](https://codeforces.com/profile/Afsan_Habib).
+My Codeforces Profile  [AfsanHabib](https://codeforces.com/profile/AfsanHabib).
 
 Learn a few ways to speed up python code. 
 [Speed Up Python Code-Link:1](https://www.loginradius.com/blog/async/speed-up-python-code/)___
